@@ -39,11 +39,11 @@
         {{-- navbar --}}
         @include('partials.navbar')
         {{-- end navbar --}}
-        
+
         @yield('main')
     </main>
-    
-        
+
+
 
     @livewireScripts
 

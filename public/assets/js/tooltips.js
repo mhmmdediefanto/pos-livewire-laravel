@@ -55,3 +55,13 @@ buttons.forEach((button) => {
     button.addEventListener(event, hide);
   });
 });
+
+
+function toggleDropdown(id) {
+  const dropdown = document.getElementById(id);
+  if (dropdown.classList.contains('hidden')) {
+      dropdown.classList.remove('hidden');
+  } else {
+      dropdown.classList.add('hidden');
+  }
+}
