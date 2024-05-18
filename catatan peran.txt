@@ -6,28 +6,39 @@ Manajemen:
 
 Barang atau Jasa:
 Admin dapat menambahkan, mengedit, dan menghapus barang atau jasa dari daftar inventaris.
+
+
 Kategori Barang:
 Admin dapat membuat dan mengatur kategori barang untuk mengelompokkan produk.
+
+
 Diskon, Pajak, Biaya:
 Admin dapat menentukan besaran diskon, pajak, dan biaya tambahan yang berlaku dalam transaksi.
+
+
 Transaksi:
-
 Admin memiliki akses untuk melihat dan mengelola semua transaksi yang terjadi di toko.
-Keuangan:
 
+
+Keuangan:
 Pemasukan, Pengeluaran, Kategori Pemasukan, Kategori Pengeluaran:
 Admin dapat mengelola semua aspek keuangan termasuk pemasukan, pengeluaran, serta kategori untuk keduanya.
-Laporan:
 
+
+Laporan:
 Pemasukan, Pengeluaran, Penjualan, Penjualan per Barang:
 Admin dapat mengakses semua laporan terkait keuangan dan penjualan untuk menganalisis kinerja toko.
-Pengaturan:
 
+
+Pengaturan:
 Menu, Role, Pengguna, Toko:
 Admin dapat mengatur pengaturan aplikasi termasuk manajemen pengguna, hak akses, dan detail toko.
-Peran Kasir:
-Dashboard:
 
+
+Peran Kasir:
+
+
+Dashboard:
 Kasir mungkin memiliki akses terbatas pada dashboard, mungkin hanya melihat ringkasan transaksi dan penjualan harian.
 Manajemen:
 
