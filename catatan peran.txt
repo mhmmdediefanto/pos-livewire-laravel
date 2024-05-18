@@ -1,0 +1,46 @@
+Peran Admin:
+Dashboard:
+
+Admin akan memiliki akses penuh ke dashboard, yang mencakup semua data dan analisis tentang transaksi, keuangan, dan laporan.
+Manajemen:
+
+Barang atau Jasa:
+Admin dapat menambahkan, mengedit, dan menghapus barang atau jasa dari daftar inventaris.
+Kategori Barang:
+Admin dapat membuat dan mengatur kategori barang untuk mengelompokkan produk.
+Diskon, Pajak, Biaya:
+Admin dapat menentukan besaran diskon, pajak, dan biaya tambahan yang berlaku dalam transaksi.
+Transaksi:
+
+Admin memiliki akses untuk melihat dan mengelola semua transaksi yang terjadi di toko.
+Keuangan:
+
+Pemasukan, Pengeluaran, Kategori Pemasukan, Kategori Pengeluaran:
+Admin dapat mengelola semua aspek keuangan termasuk pemasukan, pengeluaran, serta kategori untuk keduanya.
+Laporan:
+
+Pemasukan, Pengeluaran, Penjualan, Penjualan per Barang:
+Admin dapat mengakses semua laporan terkait keuangan dan penjualan untuk menganalisis kinerja toko.
+Pengaturan:
+
+Menu, Role, Pengguna, Toko:
+Admin dapat mengatur pengaturan aplikasi termasuk manajemen pengguna, hak akses, dan detail toko.
+Peran Kasir:
+Dashboard:
+
+Kasir mungkin memiliki akses terbatas pada dashboard, mungkin hanya melihat ringkasan transaksi dan penjualan harian.
+Manajemen:
+
+Kasir biasanya tidak memiliki akses untuk menambah, mengedit, atau menghapus barang atau jasa dari daftar inventaris.
+Transaksi:
+
+Kasir bertanggung jawab untuk melakukan transaksi penjualan dengan menggunakan aplikasi POS.
+Keuangan:
+
+Kasir mungkin hanya bisa mencatat pemasukan dan mungkin tidak memiliki akses untuk mengatur kategori pemasukan atau pengeluaran.
+Laporan:
+
+Kasir mungkin hanya bisa melihat laporan transaksi yang terkait dengan penjualan yang mereka lakukan.
+Pengaturan:
+
+Kasir tidak memiliki akses untuk mengatur pengaturan aplikasi atau manajemen pengguna.

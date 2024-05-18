@@ -12,6 +12,17 @@ class RolesHasPermissionsSeeder extends Seeder
      */
     public function run(): void
     {
-        //
+        $rollHasPermission = [
+            [
+                'role_id' => 1,
+                'permission_id' => 1,
+            ],
+            [
+                'role_id' => 2,
+                'permission_id' => 2
+            ]
+        ];
+
+        
     }
 }
